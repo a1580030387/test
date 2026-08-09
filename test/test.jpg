@@ -1,10 +1,6 @@
 {
     "urls": [
         {
-            "name": "EasyTV|多仓",
-            "url": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easydc.jpg"
-        },
-        {
             "name": "EasyTV|TV线路",
             "url": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"
         },
@@ -23,6 +19,14 @@
         {
             "name": "林中小屋",
             "url": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json"
+        },
+        {
+            "name": "鱼壳专用-海豚影视|常规",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚566"
+        },
+        {
+            "name": "鱼壳专用-海豚影视|常规py",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/Web鱼壳海豚py886"
         },
         {
             "name": "OK影视",
