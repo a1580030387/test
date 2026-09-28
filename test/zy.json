@@ -1,5 +1,52 @@
 {
   "spider": "https://mpimg.cn/down.php/ea7a1ae7d5b3a88329515f918385276a.jar",
+  
+  "lives": [
+    {
+      "name": "EasyTV",
+      "type": 0,
+      "url": "https://easyzz.dpdns.org/api/tv.png",
+      "timeout": 10,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "name": "oktv|IPv4",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/maccms2023/ix99vip/refs/heads/main/box/live.txt",
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "name": "黄蚂蚁先锋推流源",
+      "type": 0,
+      "url": "http://ge.html-5.me/ii/%E9%BB%84%E8%9A%82%E8%9A%81%E5%85%88%E9%94%8B%E6%8E%A8%E6%B5%81%E6%BA%90.txt",
+      "timeout": 10
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "name": "魔鬼|央卫TV",
+      "type": 0,
+      "url": "https://mpimg.cn/down.php/8f4d44220555d8090879cb45224b861e.txt",
+      "timeout": 10
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "name": "多源版|央卫TV",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
+      "timeout": 10
+      "changeable": 1,
+      "playerType": 2
+    }
+  ],
+
+  
   "sites": [
     {
       "key": "豆瓣",
@@ -799,58 +846,7 @@
 
   ],
 
-  "lives": [
-    {
-      "name": "EasyTV",
-      "type": 0,
-      "url": "https://easyzz.dpdns.org/api/tv.png",
-      "timeout": 10,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "name": "全球直播线路",
-      "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/tianze889/tvds/refs/heads/main/tvdc.json"
-      "timeout": 10,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "name": "oktv|IPv4",
-      "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/maccms2023/ix99vip/refs/heads/main/box/live.txt",
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "name": "黄蚂蚁先锋推流源",
-      "type": 0,
-      "url": "http://ge.html-5.me/ii/%E9%BB%84%E8%9A%82%E8%9A%81%E5%85%88%E9%94%8B%E6%8E%A8%E6%B5%81%E6%BA%90.txt",
-      "timeout": 10
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "name": "魔鬼|央卫TV",
-      "type": 0,
-      "url": "https://mpimg.cn/down.php/8f4d44220555d8090879cb45224b861e.txt",
-      "timeout": 10
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "name": "多源版|央卫TV",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
-      "timeout": 10
-      "changeable": 1,
-      "playerType": 2
-    }
-  ],
+
 
  "parses": [
     {
