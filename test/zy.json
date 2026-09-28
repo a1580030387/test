@@ -809,6 +809,14 @@
       "playerType": 2
     },
     {
+      "name": "全球直播线路",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/tianze889/tvds/refs/heads/main/tvdc.json"
+      "timeout": 10,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "name": "oktv|IPv4",
       "type": 0,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/maccms2023/ix99vip/refs/heads/main/box/live.txt",
