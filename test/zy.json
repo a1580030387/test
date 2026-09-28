@@ -19,6 +19,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "changeable": 1,
       "playerType": 2
+    }, 
+    {
+      "name": "全球直播线路",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/tianze889/tvds/refs/heads/main/tvdc.json",
+      "timeout": 10,
+      "changeable": 1,
+      "playerType": 2
     },
     {
       "name": "黄蚂蚁先锋推流源",
