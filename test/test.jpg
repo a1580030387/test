@@ -8,7 +8,10 @@
             "name": "全球直播线路",
             "url": "https://gh-proxy.org/https://github.com/tianze889/tvds/blob/main/tvdc.json"
         },
-
+        {
+            "name": "多集合|多TV线路",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/a1580030387/test/refs/heads/main/test/zy.json"
+        },
         {
             "name": "少儿教育",
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
