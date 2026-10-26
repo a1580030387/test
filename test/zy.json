@@ -180,6 +180,16 @@
       }
     },
     {
+      "key": "鬼片影视",
+      "name": "鬼片☆资源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/taoBox2620/taoBox2620/main/js/java/lib/zbzdb.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/taoBox2620/taoBox2620/main/js/java/恐怖影视.js"
+    },
+    {
       "key": "小优",
       "name": "小优｜1280",
       "type": 3,
