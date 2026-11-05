@@ -1002,8 +1002,8 @@
       "key": "飞娱影视",
       "name": "飞娱 | 影视",
       "type": 3,
-      "api": "csp_Feiyu"
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/a1580030387/test/refs/heads/main/test/Jar/easy.jar",
+      "api": "csp_Feiyu",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/a1580030387/test/refs/heads/main/test/Jar/easy.jar"
     },
     {
       "key": "旺旺影视",
@@ -1017,8 +1017,8 @@
       "key": "独播影视",
       "name": "独播 | 影视",
       "type": 3,
-      "api": "csp_Duboku"
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/a1580030387/test/refs/heads/main/test/Jar/easy.jar",
+      "api": "csp_Duboku",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/a1580030387/test/refs/heads/main/test/Jar/easy.jar"
     },
     {
       "key": "云朵影视",
