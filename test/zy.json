@@ -418,17 +418,6 @@
       "filterable": 1
     },
     {
-      "key": "央视PY",
-      "name": "央视 | 栏目",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/a1580030387/test/refs/heads/main/test/py/央视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "name": "嗷呜瓜子 ┃ 秒播",
       "key": "Guazi",
       "type": 3,
