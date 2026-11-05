@@ -417,6 +417,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "央视PY",
+      "name": "央视 | 栏目",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/a1580030387/test/refs/heads/main/test/py/央视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
  {
       "key": "玩偶",
       "name": "玩偶|4K",
@@ -429,7 +440,8 @@
       "timeout": 60,
       "ext": {
         "site": [
-          "https://www.wogg.net",
+          "https://www.wogg.live",
+          "https://woggpan.888484.xyz",
           "https://wogg.xxooo.cf",
           "https://woggpan.xxooo.cf"
         ]
@@ -503,6 +515,7 @@
       "changeable": 1,
       "ext": {
         "site": [
+          "http://xhban.xyz",
           "http://38.76.197.172:16969"
         ]
       },
@@ -519,6 +532,7 @@
       "changeable": 1,
       "ext": {
         "site": [
+          "http://xsayang.fun",
           "http://38.76.197.172:12521"
         ]
       },
